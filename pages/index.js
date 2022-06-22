@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Avatar from '../components/avatar';
+import Avatar from '../components/Avatar';
 import Image from 'next/image';
 import { MicrophoneIcon, ViewGridIcon } from '@heroicons/react/solid';
 import { SearchIcon } from '@heroicons/react/outline';
